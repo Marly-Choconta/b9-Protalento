@@ -1,2 +1,2 @@
 # b9-Protalento
-Repositorio del grupo b9-protalento
+Repositorio del grupo b9 de protalento
